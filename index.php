@@ -1,5 +1,6 @@
 <html>
 <body>
+  <?php echo"hello from the internet" ; ?>
 <form action="confirm.php" method="post">
   Name: <input type="text" name="fname"><br>
   Email: <input type="text" name="ema"><br>
